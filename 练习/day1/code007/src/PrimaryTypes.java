@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class PrimaryTypes {
     public static void main(String[] args){
 //        int bigNum = 999999999999999;
@@ -34,5 +36,26 @@ public class PrimaryTypes {
 
         short shortVar = -30000;
         System.out.println(shortVar);
+
+        int intVar = 1000000000;
+        System.out.println(intVar);
+
+        long longNum = 99;
+        System.out.println(longNum);
+
+        long biglongVar = 99999999999999L;
+        System.out.println(biglongVar);
+
+        float floatVar = 100.1111111F;
+        System.out.println(floatVar);
+
+        double doubleVar = 100.1111111;
+        System.out.println(doubleVar);
+
+        boolean condition = true;
+        boolean conditions = false;
+
+        char ch = 'a';
+        System.out.println(ch);
     }
 }
