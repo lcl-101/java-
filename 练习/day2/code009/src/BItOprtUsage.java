@@ -13,13 +13,13 @@ public class BItOprtUsage {
         //二进制 101
         int data = 5;
 
-        // 0101 & 0001 = 1
+        // 0101 & 0001 = 0001
         boolean isStudent = (data & is_student_mask) != 0;
         System.out.println(isStudent);
-        // 0101 & 0010 = 0
+        // 0101 & 0010 = 0000
         boolean isProgrammer = (data & is_programmer_mask) != 0;
         System.out.println(isProgrammer);
-        // 0101 & 0100 = 1
+        // 0101 & 0100 = 0100
         boolean isDriver = (data & is_drover_mask) != 0;
         System.out.println(isDriver);
         // 0101 & 1000 = 0
