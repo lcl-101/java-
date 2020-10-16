@@ -8,8 +8,8 @@ public class ForceCounvert {
         double doubleVal = 3344556.789;
         floatVal = (float) doubleVal;
 
-        int a = 65;
+        int a = 65 + 10;
         char b = (char) a;
-
+        System.out.println(b);
     }
 }
