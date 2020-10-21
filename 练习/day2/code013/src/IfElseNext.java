@@ -2,7 +2,7 @@ public class IfElseNext {
     public static void main(String[] args) {
         int a = 99;
         int b = 99;
-        int c = 991;
+        int c = 33;
 
         if (a == b && b == c) {
             System.out.println("a,b和c等大, 大小为" + a);
