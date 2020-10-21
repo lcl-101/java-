@@ -1,7 +1,7 @@
 public class CalcDivfor {
     public static void main(String[] args) {
-        int divided = 100;
-        int divisor = 3;
+        int divided = 5;
+        int divisor = 30;
 
         int found = 0;
         int toBeFound = 10;
@@ -14,6 +14,11 @@ public class CalcDivfor {
 //        }
 
         for(int i=0;i< 100;i++){
+            if(divided < divisor){
+                System.out.println(divided + "小于" + divisor + "单签循环退出");
+                divided++;
+                continue;
+            }
             if(divided % divisor == 0){
                 System.out.println(divided+"可以整除" + divisor + ",商为:" + (divided/divisor));
                 found++;
