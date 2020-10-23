@@ -14,9 +14,23 @@ public class RanDomNumber {
         int rangeEnd = 90;
 
         int mod = rangeEnd - rangeStart;
+
+        if(rangeStart < 0 || rangeEnd < 0){
+            System.out.println("开始和结束必须是正数或者是0");
+        }
+
+        if(mod <= 1){
+            System.out.println("非法的数字范围. (" + rangeStart + "," + rangeEnd + ")");
+        }
+
         for (int i = 0;i< 50;i++){
             int bigRandom = (int) (Math.random() * (rangeEnd * 100));
             int numberToGuess = (bigRandom % mod) + rangeStart;
+            if(numberToGuess <= rangeStart){
+                numberToGuess = rangeStart + 1;
+            }else if(numberToGuess > rangeEnd){
+                numberToGuess = rangeEnd - 1;
+            }
             System.out.println("mod=" + mod + ", numberToGuess=" + numberToGuess);
         }
 
