@@ -67,7 +67,7 @@
       <updated>1603711888213</updated>
       <workItem from="1603711889251" duration="70000" />
       <workItem from="1603793894836" duration="2024000" />
-      <workItem from="1603879996695" duration="408000" />
+      <workItem from="1603879996695" duration="505000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1603796145498</created>
@@ -111,5 +111,9 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603796147852" />
+    <state x="1793" y="162" key="new project wizard" timestamp="1603880128362">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1793" y="162" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603880128362" />
   </component>
 </project>
