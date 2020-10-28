@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1dd0012-a7f3-4af6-b5b1-d2d3a18fcbc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/code017/RanDomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code017/RanDomNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RanDomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RanDomNumber.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1dd0012-a7f3-4af6-b5b1-d2d3a18fcbc7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GuessNumer1">
+    <configuration name="GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessNumber" />
+      <module name="code017" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessNumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessNumer1" />
+      <module name="code017" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RanDomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RanDomNumber" />
       <module name="code017" />
@@ -46,19 +57,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="ReadStringAndIntFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadStringAndIntFromConsole" />
+      <module name="code017" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessNumer1" />
+        <item itemvalue="Application.GuessNumber" />
+        <item itemvalue="Application.ReadStringAndIntFromConsole" />
         <item itemvalue="Application.RanDomNumber" />
       </list>
     </recent_temporary>
@@ -71,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603448561336</updated>
-      <workItem from="1603448562377" duration="1842000" />
+      <workItem from="1603448562377" duration="1950000" />
+      <workItem from="1603708183520" duration="3652000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1603450248848</created>
@@ -80,7 +91,42 @@
       <option name="project" value="LOCAL" />
       <updated>1603450248848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="++">
+      <created>1603450579272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603450579272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="++">
+      <created>1603708721890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603708721890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="++">
+      <created>1603708846220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603708846220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="++">
+      <created>1603711850833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603711850833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="++">
+      <created>1603711905355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603711905355</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,29 +137,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="++" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1987" y="116" key="CommitChangelistDialog2" timestamp="1603450248760">
+    <state x="1987" y="116" key="CommitChangelistDialog2" timestamp="1603711905263">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1987" y="116" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603450248760" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1603450478715">
+    <state x="1987" y="116" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711905263" />
+    <state width="1878" height="154" key="GridCell.Tab.0.bottom" timestamp="1603711961575">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603450478715" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1603450478714">
+    <state width="1878" height="154" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711961575" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603711628084" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711502793" />
+    <state width="1878" height="154" key="GridCell.Tab.0.center" timestamp="1603711961572">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603450478714" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1603450478713">
+    <state width="1878" height="154" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711961572" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603711628083" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711502790" />
+    <state width="1878" height="154" key="GridCell.Tab.0.left" timestamp="1603711961571">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603450478713" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1603450478714">
+    <state width="1878" height="154" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711961571" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603711628078" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711502790" />
+    <state width="1878" height="154" key="GridCell.Tab.0.right" timestamp="1603711961572">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603450478714" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1603450251114">
+    <state width="1878" height="154" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711961572" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603711628084" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711502792" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1603711907522">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603450251114" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711907522" />
+    <state x="1793" y="162" key="new project wizard" timestamp="1603711887290">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1793" y="162" key="new project wizard/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603711887290" />
+    <state x="2065" y="255" key="run.anything.popup" timestamp="1603708421479">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2065" y="255" key="run.anything.popup/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603708421479" />
   </component>
 </project>
