@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e23ce1fc-84c4-4011-9d67-ed1534ac3ff5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OneYearOneArrau.java" afterDir="false" />
-    </list>
+    <list default="true" id="e23ce1fc-84c4-4011-9d67-ed1534ac3ff5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OntArrayForAll">
     <configuration name="OneYearOneArrau" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OneYearOneArrau" />
       <module name="code021" />
@@ -45,19 +43,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="OntArrayForAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OntArrayForAll" />
+      <module name="code021" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OntArrayForAll" />
         <item itemvalue="Application.OneYearOneArrau" />
       </list>
     </recent_temporary>
@@ -70,29 +65,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603967560438</updated>
-      <workItem from="1603967561489" duration="1302000" />
+      <workItem from="1603967561489" duration="1416000" />
+      <workItem from="1604054135851" duration="982000" />
+      <workItem from="1604112906818" duration="1423000" />
     </task>
+    <task id="LOCAL-00001" summary="++">
+      <created>1604055039479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604055039479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="++" />
+    <option name="LAST_COMMIT_MESSAGE" value="++" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1603968939834">
+    <state x="1987" y="116" key="CommitChangelistDialog2" timestamp="1604055039353">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603968939834" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1603968939831">
+    <state x="1987" y="116" key="CommitChangelistDialog2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055039353" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1604055147162">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603968939831" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1603968939830">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604054732966" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055147162" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1604055147160">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603968939830" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1603968939833">
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604054732964" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055147160" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1604055147160">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603968939833" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604054732964" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055147160" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1604055147161">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604054732965" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055147161" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604055041630">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604054259802" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055041630" />
+    <state x="113" y="72" key="new project wizard" timestamp="1604112971830">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="113" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1604112971830" />
   </component>
 </project>

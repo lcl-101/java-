@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be8f4c0-dcaa-4511-9cc0-0307fbdb4626" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../code021/src/OneYearOneArrau.java" afterDir="false" />
-    </list>
+    <list default="true" id="4be8f4c0-dcaa-4511-9cc0-0307fbdb4626" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +64,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AssignArray" />
@@ -85,6 +94,7 @@
       <updated>1603880129258</updated>
       <workItem from="1603880130302" duration="1915000" />
       <workItem from="1603967454682" duration="1104000" />
+      <workItem from="1604053398869" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1603880342851</created>
