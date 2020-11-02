@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e23ce1fc-84c4-4011-9d67-ed1534ac3ff5" name="Default Changelist" comment="" />
+    <list default="true" id="e23ce1fc-84c4-4011-9d67-ed1534ac3ff5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day3/code001/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day3/code001/src/SuperMarket.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Application.OntArrayForAll">
     <configuration name="OneYearOneArrau" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -68,6 +72,7 @@
       <workItem from="1603967561489" duration="1416000" />
       <workItem from="1604054135851" duration="982000" />
       <workItem from="1604112906818" duration="1423000" />
+      <workItem from="1604311667835" duration="1442000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1604055039479</created>
@@ -116,9 +121,10 @@
     </state>
     <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604054259802" />
     <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604055041630" />
-    <state x="113" y="72" key="new project wizard" timestamp="1604112971830">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1591" y="86" key="new project wizard" timestamp="1604311758827">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="113" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1604112971830" />
+    <state x="1591" y="86" key="new project wizard/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604311758827" />
   </component>
 </project>
