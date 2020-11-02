@@ -13,5 +13,10 @@ public class ReferenceAenPRimaryDataType {
         System.out.println("m3=" + m3);
         System.out.println("m4=" + m4);
         System.out.println("m5=" + m5);
+
+        Merchandise m6 = m1;
+        System.out.println("m6=" + m6);
+        m6 = m5;
+        System.out.println("m6=" + m6);
     }
 }
