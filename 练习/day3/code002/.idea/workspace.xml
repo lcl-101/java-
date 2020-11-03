@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ca3377-a181-419e-8564-e452e472dbcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merchandise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RefArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code002/ArrayClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code002/ArrayClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +41,21 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RefArray">
     <configuration name="ArrayClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayClass" />
+      <module name="code002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RefArray" />
       <module name="code002" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RefArray" />
         <item itemvalue="Application.ArrayClass" />
       </list>
     </recent_temporary>
@@ -71,11 +87,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604399431581</updated>
-      <workItem from="1604399432611" duration="277000" />
+      <workItem from="1604399432611" duration="788000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1604400197203">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604400197203" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1604400197202">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604400197202" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1604400197200">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604400197200" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1604400197202">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604400197202" />
   </component>
 </project>

@@ -7,7 +7,7 @@ public class ArrayClass {
         intArr = new int[1];
         intArr = new int[2];
 
-        double[][][] doubles3Array;
+        double[][][] doubles3Array = new double[2][3][4];
 
         int[] a1 = new int[9];
         int[] a2 = new int[0];
@@ -17,5 +17,9 @@ public class ArrayClass {
         System.out.println("a2.length=" + a2.length);
 
         double[] a3 = new double[5];
+        //a3是double[]类型的引用, 不可以用int[]类型的引用赋值
+        // a3 = a1;
+
+        doubles3Array[1][2] = a3;
     }
 }
