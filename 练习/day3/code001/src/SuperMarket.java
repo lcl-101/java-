@@ -1,9 +1,6 @@
 public class SuperMarket {
     public static void main(String[] args) {
 
-        // >> TODO m1是一个Merchandise类型的应用, 只能指向Merchandise类型的实例
-        // >> TODO
-
         //商品1
         Merchandise m1 = new Merchandise();
         m1.name = "茉莉花茶叶20包";

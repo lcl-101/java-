@@ -1,5 +1,9 @@
 public class ReferenceAenPRimaryDataType {
     public static void main(String[] args) {
+
+        // >> TODO m1是一个Merchandise类型的应用, 只能指向Merchandise类型的实例
+        // >> TODO
+
         Merchandise m1;
         m1 = new Merchandise();
         Merchandise m2 = new Merchandise();
