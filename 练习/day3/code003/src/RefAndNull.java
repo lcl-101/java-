@@ -24,7 +24,7 @@ public class RefAndNull {
         }
 
         System.out.println(merchandises[7]);
-        System.out.println(merchandises[7].name);
-//        merchandises[7].name = "不存在的商品";
+        //System.out.println(merchandises[7].name);
+        //merchandises[7].name = "不存在的商品";
     }
 }
