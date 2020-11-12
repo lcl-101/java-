@@ -56,13 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604399431581</updated>
       <workItem from="1604399432611" duration="1470000" />
+      <workItem from="1605090444251" duration="1125000" />
     </task>
     <servers />
   </component>
@@ -106,5 +109,9 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604402792190" />
+    <state x="1793" y="162" key="new project wizard" timestamp="1605090581334">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1793" y="162" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605090581334" />
   </component>
 </project>
