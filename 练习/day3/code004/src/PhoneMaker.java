@@ -30,5 +30,7 @@ public class PhoneMaker {
         phone.mainboard.model = "EA888";
         phone.mainboard.year = 2019;
 
+        phone.prePhone = new Phone();
+        phone.prePhone.mainboard = new Mainboard();
     }
 }

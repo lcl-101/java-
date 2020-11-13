@@ -3,4 +3,6 @@ public class Phone {
     Mainboard mainboard;
     double price;
     boolean hasFigurePrintUnlocker;
+
+    Phone prePhone;
 }
