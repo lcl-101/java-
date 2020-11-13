@@ -15,8 +15,20 @@ public class PhoneMaker {
         cpu.speed = 3.5;
 
         Memory memory = new Memory();
-        memory.producer = "";
+        memory.producer = "三星";
+        memory.capacity = 4;
+
+        Storage storage = new Storage();
+        storage.producer = "intel";
+        storage.capacity = 128;
 
         phone.mainboard = new Mainboard();
+
+        phone.mainboard.cpu = cpu;
+        phone.mainboard.memory = memory;
+        phone.mainboard.storage = storage;
+        phone.mainboard.model = "EA888";
+        phone.mainboard.year = 2019;
+
     }
 }
