@@ -101,7 +101,7 @@ public class RunLittleSuperMarketAppMain {
             }
             System.out.println("顾客" + customer.name + "共消费了" + totalCost);
 
-            littleSuperMarket.incomingSum = totalCost;
+            littleSuperMarket.incomingSum += totalCost;
 
             System.out.println("还继续营业么?");
             open = scanner.nextBoolean();
