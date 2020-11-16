@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeb27fd8-d788-4a0c-8a19-a5daaa2f503b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/MyPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/PhoneMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/parts/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/parts/Mainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/parts/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/parts/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code005/src/com/phone/parts/Storage.java" afterDir="false" />
-    </list>
+    <list default="true" id="aeb27fd8-d788-4a0c-8a19-a5daaa2f503b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605176968625</updated>
       <workItem from="1605176969684" duration="1413000" />
-      <workItem from="1605263109184" duration="1576000" />
+      <workItem from="1605263109184" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1605178362588</created>
@@ -112,22 +103,22 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1987" y="116" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605178735642" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605263618578">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605265190206">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605263618578" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605263618576">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605265190206" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605265190205">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605263618576" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605263618576">
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605265190205" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605265190204">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605263618576" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605263618577">
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605265190204" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605265190205">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605263618577" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605265190205" />
     <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605178365130">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>

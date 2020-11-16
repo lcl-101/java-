@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd35d0a-3b4d-4777-89b6-20887492575d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/phone/MyPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/PhoneMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Mainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/phone/parts/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/RunLittleSuperMarketAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/person/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/supermarket/LittleSuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/supermarket/Merchandis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +50,6 @@
       <recent name="$PROJECT_DIR$/src/com/phone/parts" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,11 +58,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605263876984</updated>
-      <workItem from="1605263878027" duration="951000" />
+      <workItem from="1605263878027" duration="1120000" />
+      <workItem from="1605521394650" duration="26000" />
+      <workItem from="1605521450595" duration="1021000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1812" y="162" key="new project wizard" timestamp="1605521556111">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1812" y="162" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605521556111" />
+    <state x="2065" y="255" key="run.anything.popup" timestamp="1605265099497">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2065" y="255" key="run.anything.popup/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1605265099497" />
   </component>
 </project>
