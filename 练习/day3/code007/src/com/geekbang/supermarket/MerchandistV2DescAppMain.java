@@ -9,6 +9,7 @@ public class MerchandistV2DescAppMain {
         merchandistV2.purchasePrce = 500;
         merchandistV2.count = 40;
         merchandistV2.id = "DESK9527";
+        merchandistV2.madeIn = "中国";
 
         merchandistV2.describe();
     }
