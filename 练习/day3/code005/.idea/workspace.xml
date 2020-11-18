@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd35d0a-3b4d-4777-89b6-20887492575d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/RunLittleSuperMarketAppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/person/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/supermarket/LittleSuperMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code006/src/com/geekbang/supermarket/Merchandis.java" afterDir="false" />
-    </list>
+    <list default="true" id="5bd35d0a-3b4d-4777-89b6-20887492575d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +55,7 @@
       <updated>1605263876984</updated>
       <workItem from="1605263878027" duration="1120000" />
       <workItem from="1605521394650" duration="26000" />
-      <workItem from="1605521450595" duration="1021000" />
+      <workItem from="1605521450595" duration="1335000" />
     </task>
     <servers />
   </component>
@@ -68,6 +63,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605524411233">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605524411233" />
     <state x="1812" y="162" key="new project wizard" timestamp="1605521556111">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
