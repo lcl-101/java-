@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67287879-bf6d-4158-85e1-56eefe964a3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/code007/com/geekbang/supermarket/MerchandistV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code007/com/geekbang/supermarket/MerchandistV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code007/com/geekbang/supermarket/MerchandistV2DescAppMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code007/com/geekbang/supermarket/MerchandistV2DescAppMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geekbang/supermarket/MerchandistV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/MerchandistV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geekbang/supermarket/MerchandistV2DescAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekbang/supermarket/MerchandistV2DescAppMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="67287879-bf6d-4158-85e1-56eefe964a3b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605695625470</updated>
-      <workItem from="1605695626526" duration="800000" />
+      <workItem from="1605695626526" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1605696383171</created>
@@ -89,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605696383171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="++">
+      <created>1605696526290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605696526290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,29 +102,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="++" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1987" y="116" key="CommitChangelistDialog2" timestamp="1605696383021">
+    <state x="1987" y="116" key="CommitChangelistDialog2" timestamp="1605696526184">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1987" y="116" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696383021" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605696457201">
+    <state x="1987" y="116" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696526184" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605697074574">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696457201" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605696457199">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605697074574" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605697074572">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696457199" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605696457198">
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605697074572" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605697074571">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696457198" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605696457200">
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605697074571" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605697074573">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696457200" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605696385420">
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605697074573" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605696528381">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696385420" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696528381" />
   </component>
 </project>
