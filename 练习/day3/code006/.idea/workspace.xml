@@ -50,19 +50,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.RunLittleSuperMarketAppMain" />
@@ -79,6 +66,7 @@
       <updated>1605521557138</updated>
       <workItem from="1605521558195" duration="3084000" />
       <workItem from="1605694254950" duration="1998000" />
+      <workItem from="1605870725912" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1605524393990</created>

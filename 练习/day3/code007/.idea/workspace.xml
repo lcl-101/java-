@@ -50,13 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605695625470</updated>
       <workItem from="1605695626526" duration="1059000" />
+      <workItem from="1605867878455" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1605696383171</created>
@@ -126,5 +129,14 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605696528381" />
+    <state x="1812" y="162" key="new project wizard" timestamp="1605867924986">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1812" y="162" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605867924986" />
+    <state x="2065" y="237" key="run.anything.popup" timestamp="1605871365982">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="237" key="run.anything.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605871365982" />
+    <state x="2065" y="255" key="run.anything.popup/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1605869988198" />
   </component>
 </project>
